@@ -52,7 +52,7 @@ https://www.geotrust.co.jp/ssl_guideline/ssl_beginners/?sid=ssl
     - ドメイン所有者かつ組織が法的・物理的に存在する
     - 世界標準の認証ガイドライン
     - アドレスバーがめっちゃ緑になるやつ
-    - 12〜15万/年
+    - 12〜15万円/年
 
 ## バージョン
 
